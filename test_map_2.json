@@ -213,7 +213,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/32x32Tileset_gardenTheme.png",
+         "image":"32x32Tileset_gardenTheme.png",
          "imageheight":480,
          "imagewidth":480,
          "margin":0,
@@ -933,7 +933,7 @@
         {
          "columns":8,
          "firstgid":226,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/Base_1.png",
+         "image":"Base_1.png",
          "imageheight":1152,
          "imagewidth":256,
          "margin":0,
@@ -946,7 +946,7 @@
         {
          "columns":8,
          "firstgid":514,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/Base_2.png",
+         "image":"Base_2.png",
          "imageheight":1216,
          "imagewidth":256,
          "margin":0,
@@ -959,7 +959,7 @@
         {
          "columns":8,
          "firstgid":818,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/Base_3.png",
+         "image":"Base_3.png",
          "imageheight":1888,
          "imagewidth":256,
          "margin":0,
@@ -972,7 +972,7 @@
         {
          "columns":24,
          "firstgid":1290,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/chairs.png",
+         "image":"chairs.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -985,7 +985,7 @@
         {
          "columns":18,
          "firstgid":1866,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/Floor_Textures.jpeg",
+         "image":"Floor_Textures.jpeg",
          "imageheight":576,
          "imagewidth":576,
          "margin":0,
@@ -998,7 +998,7 @@
         {
          "columns":32,
          "firstgid":2190,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/rpg_tileset.png",
+         "image":"rpg_tileset.png",
          "imageheight":2016,
          "imagewidth":1024,
          "margin":0,
@@ -1011,7 +1011,7 @@
         {
          "columns":16,
          "firstgid":4206,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/Bar.png",
+         "image":"Bar.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1024,7 +1024,7 @@
         {
          "columns":16,
          "firstgid":4462,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/Tileset_modern.png",
+         "image":"Tileset_modern.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1037,7 +1037,7 @@
         {
          "columns":24,
          "firstgid":4718,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/pandamaru_mv_nature1_by_schwarzenacht_d9k7n23.png",
+         "image":"pandamaru_mv_nature1_by_schwarzenacht_d9k7n23.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -1050,7 +1050,7 @@
         {
          "columns":6,
          "firstgid":5294,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/banners.png",
+         "image":"banners.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -1063,7 +1063,7 @@
         {
          "columns":8,
          "firstgid":5330,
-         "image":"..\/..\/..\/Desktop\/Cellu L\u00b4art\/CineVenture\/TIles\/bar_tileset_by_aveontrainer_ddpy4ut.png",
+         "image":"bar_tileset_by_aveontrainer_ddpy4ut.png",
          "imageheight":384,
          "imagewidth":256,
          "margin":0,
