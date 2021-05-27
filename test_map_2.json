@@ -951,6 +951,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"Base_2",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":304,
          "tileheight":32,
@@ -1068,6 +1074,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"bar_tileset",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":96,
          "tileheight":32,
