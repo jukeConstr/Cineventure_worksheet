@@ -24,7 +24,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"\/CineVenture\/CineVentureMap.json"
+                 "value":"CineVentureMap.json#KSH_Entry"
                 }],
          "type":"tilelayer",
          "visible":true,
