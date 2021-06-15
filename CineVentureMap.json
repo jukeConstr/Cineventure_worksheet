@@ -28,7 +28,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"KSH_Indoor_Map.json#start\n"
+                 "value":"KSH_Indoor_Map.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
