@@ -26,9 +26,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/github.com\/jofraesh\/CineVenture\/blob\/master\/KSH_Indoor_Map.json#KSH_Entry"
+                 "value":"KSH_Indoor_Map.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
