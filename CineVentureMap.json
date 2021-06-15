@@ -22,13 +22,13 @@
          "encoding":"base64",
          "height":50,
          "id":3,
-         "name":"Exit",
+         "name":"exit",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"KSH_Indoor_Map.json"
+                 "value":"KSH_Indoor_Map.json#start\n"
                 }],
          "type":"tilelayer",
          "visible":true,
