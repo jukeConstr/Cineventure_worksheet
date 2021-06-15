@@ -28,7 +28,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"KSH_Indoor_Map.json#start"
+                 "value":"https:\/\/github.com\/jofraesh\/CineVenture\/blob\/master\/KSH_Indoor_Map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
