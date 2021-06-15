@@ -253,7 +253,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/github.com\/jofraesh\/CineVenture\/blob\/master\/08%20El%20Carretero.mp3"
                 }, 
                 {
                  "name":"silent",
