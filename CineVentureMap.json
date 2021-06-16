@@ -271,11 +271,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"Loopnreiner-Reconstruction-08-Re.mp3"
-                }, 
-                {
                  "name":"silent",
                  "type":"bool",
                  "value":true
