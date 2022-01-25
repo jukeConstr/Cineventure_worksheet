@@ -120,7 +120,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/9bNZBR8Q0uI"
+                 "value":"https:\/\/player.vimeo.com\/video\/647238793?h=f696aaab8a&title=0&byline=0&portrait=0"
                 }],
          "type":"tilelayer",
          "visible":true,
